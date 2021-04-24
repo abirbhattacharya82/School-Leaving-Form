@@ -5,3 +5,5 @@
 - `docx`
 
 To install `docx` paste this in your command line: `pip install python-docx `
+
+Run the `App.py` program to get Results.
